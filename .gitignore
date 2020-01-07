@@ -1,0 +1,11 @@
+# ignore Tensorflow checkpoints
+*ckpt*
+# ignore original datasets images
+data/original datasets/NIPS2017/images
+**/**/intermediate_results
+**/**/output_dir
+.idea
+**/**/__pycache__
+**/**/*.jpg
+data
+**/**/._*
